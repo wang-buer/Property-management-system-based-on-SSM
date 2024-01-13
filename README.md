@@ -1,10 +1,4 @@
-# 基于SSM的物业管理系统
-
-## 获取方式
-
-扫描下方，回复关键词  ：**物业** ，获取完整版源码
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+# 基于SSM的物业管理系统1
 
 ## 1、项目介绍
 
@@ -19,7 +13,7 @@
 
 后端框架：SSM（Spring、SpringMVC、Mybatis）
 
-前端技术：、Layui、jsp、css、JavaScript、JQuery
+前端技术：Layui、jsp、css、JavaScript、JQuery
 
 ## 3、开发环境
 
@@ -27,6 +21,7 @@
 - IDE类型：IDEA、Eclipse都可运行
 - tomcat版本：Tomcat 7-10版本均可
 - 数据库类型：MySql（5.x和8.x版本都可） 
+- maven项目：否
 - 硬件环境：Windows 或者 Mac OS
 
 
@@ -34,39 +29,36 @@
 
 ### 4.1 登录
 
-![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222258.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202208092222258.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-用户管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222373.jpg)
+![管理员-用户管理](https://www.codeshop.fun/Typora-Images/202208092222373.jpg)
 
-![管理员-用户缴费](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222331.jpg)
+![管理员-用户缴费](https://www.codeshop.fun/Typora-Images/202208092222331.jpg)
 
-![管理员-车位管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222367.jpg)
+![管理员-车位管理](https://www.codeshop.fun/Typora-Images/202208092222367.jpg)
 
-![管理员-车位分配](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222835.jpg)
+![管理员-车位分配](https://www.codeshop.fun/Typora-Images/202208092222835.jpg)
 
-![管理员-新闻管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222837.jpg)
+![管理员-新闻管理](https://www.codeshop.fun/Typora-Images/202208092222837.jpg)
 
-![管理员-公告管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222721.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202208092222721.jpg)
 
-![管理员-投诉处理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222253.jpg)
+![管理员-投诉处理](https://www.codeshop.fun/Typora-Images/202208092222253.jpg)
 
 ### 4.3 业主模块
 
-![用户-个人车位](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092222352.jpg)
+![用户-个人车位](https://www.codeshop.fun/Typora-Images/202208092222352.jpg)
 
-![用户-个人投诉](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092223237.jpg)
+![用户-个人投诉](https://www.codeshop.fun/Typora-Images/202208092223237.jpg)
 
-![用户-费用单](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092223321.jpg)
+![用户-费用单](https://www.codeshop.fun/Typora-Images/202208092223321.jpg)
 
-![用户-查看新闻和公告](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208092223773.jpg)
+![用户-查看新闻和公告](https://www.codeshop.fun/Typora-Images/202208092223773.jpg)
 
-## 5、获取方式
+## 获取方式
 
-扫描下方，回复关键词  ： **物业**，获取完整版源码
+下方扫一扫关注后，后台回复关键词：**物业**，查看导入教程视频、sql脚本和源码等
 
-
-
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
-
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
